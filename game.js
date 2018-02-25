@@ -2798,7 +2798,7 @@ if(index==11&&count1_1==1&&count1_2==1&&count1_3==1&&count1_4==1&&count2_1==1&&c
     }
     else if(index==23&&count6_3_4==7){
         if(changer6_3_4=="twentytwo6_3_4"){
-            document.getElementById("img_id_three_three").src = "zero1.png";
+            document.getElementById("img_id_three_one").src = "zero1.png";
             count6_3_4 = 9;
         }
     }
