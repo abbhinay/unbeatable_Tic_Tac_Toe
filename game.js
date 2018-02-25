@@ -28,7 +28,7 @@ if(index==11&&count1_1==1&&count1_2==1&&count1_3==1&&count1_4==1&&count2_1==1&&c
         if (changer1_1 == "twelve") {
             document.getElementById("img_id_three_two").src = "zero1.png";
             count1_1 += 1;
-            alert("i won motherfucker!!!");
+            alert("i won !!!");
         }
     } 
     else if (index == 32 && count1_1 == 3) {
@@ -41,7 +41,7 @@ if(index==11&&count1_1==1&&count1_2==1&&count1_3==1&&count1_4==1&&count2_1==1&&c
         if (changer1_1 = "twelve") {
             document.getElementById("img_id_one_three").src = "zero1.png";
             count1_1 += 1;
-            alert("i won motherfucker!!!");
+            alert("i won !!!");
         }
     }
     else if (index == 13 && count1_1 == 4) {
@@ -84,7 +84,7 @@ if(index==11&&count1_1==1&&count1_2==1&&count1_3==1&&count1_4==1&&count2_1==1&&c
         if (changer1_2 == "fourteen") {
             document.getElementById("img_id_three_two").src = "zero1.png";
             count1_2 += 2;
-            alert("i won motherfucker!!!");
+            alert("i won !!!");
         }
     } 
     else if (index == 32 && count1_2 == 5) {
@@ -97,7 +97,7 @@ if(index==11&&count1_1==1&&count1_2==1&&count1_3==1&&count1_4==1&&count2_1==1&&c
         if (changer1_2 == "fourteen") {
             document.getElementById("img_id_one_one").src = "zero1.png";
             count1_2 = 9;
-            alert("i won motherfucker!!!");
+            alert("i won !!!");
         }
     } 
     else if (index == 11 && count1_2 == 7) {
@@ -140,7 +140,7 @@ if(index==11&&count1_1==1&&count1_2==1&&count1_3==1&&count1_4==1&&count2_1==1&&c
         if (changer1_3 == "thirtyfour") {
             document.getElementById("img_id_one_two").src = "zero1.png";
             count1_3 += 2;
-            alert("i won motherfucker!!!");
+            alert("i won !!!");
         }
     } 
     else if (index == 12 && count1_3 == 5) {
@@ -153,7 +153,7 @@ if(index==11&&count1_1==1&&count1_2==1&&count1_3==1&&count1_4==1&&count2_1==1&&c
         if (changer1_3 == "thirtyfour") {
             document.getElementById("img_id_three_one").src = "zero1.png";
             count1_3 = 9;
-            alert("i won motherfucker!!!");
+            alert("i won !!!");
         }
     } 
     else if (index == 31 && count1_3 == 7) {
@@ -196,7 +196,7 @@ if(index==11&&count1_1==1&&count1_2==1&&count1_3==1&&count1_4==1&&count2_1==1&&c
         if (changer1_4 == "thirtythree") {
             document.getElementById("img_id_three_two").src = "zero1.png";
             count1_4 += 2;
-            alert("i won motherfucker!!!");
+            alert("i won !!!");
         }
     }
     else if (index == 12 && count1_4 == 5) {
@@ -209,7 +209,7 @@ if(index==11&&count1_1==1&&count1_2==1&&count1_3==1&&count1_4==1&&count2_1==1&&c
         if (changer1_4 == "thirtythree") {
             document.getElementById("img_id_one_one").src = "zero1.png";
             count1_4 = 9;
-            alert("i won motherfucker!!!");
+            alert("i won !!!");
         }
     } 
     else if (index == 33 && count1_4 == 7) {
